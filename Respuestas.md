@@ -1,4 +1,4 @@
-[https://github.com/jcortavee/lab02192022.git]REPO
+[REPO](https://github.com/jcortavee/lab02192022.git)
 
 # Roberto Carlos Pernillo Donis
 ## 7690-18-9965
